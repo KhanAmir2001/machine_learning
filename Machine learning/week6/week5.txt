@@ -1,0 +1,7 @@
+parameters are the ones that are defined by the programs
+hyperparameters are the ones that are defined by the user beforehand to give it something to start with.
+In polynomial regression the xs represent features in thre equations.
+If oversampling occurs the other dataset can be multiplied in order to match with it.
+Polunomial regression is the creation of additional features baded on the original feature to get the quadratic or cubuic or square root function.
+
+h0(x) = 0 + 01 X1
