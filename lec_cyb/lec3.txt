@@ -1,0 +1,12 @@
+			AntiVirus
+
+Attempts to detect malware on our systems
+Great for known malware but
+Malware is always evolving
+Some AV's are better than others
+
+Heuristics is the method of making rules that identify things that look like
+malware. If something is opening network ports it might be a virus. If it uses
+crypto libraries all the time these things are unusual for many programs
+
+Encoding malicous code and making sure it only get decoded at runtime that makes it easier for your virus to get through any antivurses. 
